@@ -4,6 +4,8 @@
 
 这时，[Docsify](https://docsify.js.org/)偶然闯入了我的实现。纯粹的开源项目，在Github上已经斩获了上万star，最大的特点就是只对Mardown文件进行操作，不涉及编译。而且功能同样强大且轻量化。该有的功能一项不少，可扩展性也很强，十分能打。它的[中文官方文档](https://docsify.js.org/#/zh-cn/)就是利用Docsify生成的，十分详细，小白友好。
 
+See the deployment [here](https://fatsheepkiwi.github.io/docsify-learning/#/)
+
 ## 快速开始
 
 ### 全局安装
